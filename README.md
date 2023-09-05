@@ -17,6 +17,8 @@ The initial initialization of the "game" state via stdin is provided. Prepare 5 
 'd' - increase in speed  
 'q' - exit 
 
+![image](screenshots/image.png)
+
 ### Project build
 
 The project is build through a Makefile in the src folder with the command  *make*
